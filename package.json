@@ -1,0 +1,11 @@
+{
+  "name": "containerfile-editor",
+  "version": "1.0.0",
+  "description": "Containerfile Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Diaz <alex@akdev.xyz>",
+  "license": "ISC"
+}
